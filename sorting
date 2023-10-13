@@ -50,7 +50,7 @@ my_list.append(random.randint(0, 999))
 print("\nUnsorted List")
 print(my_list)
 
-Dr. Babu Rao K 21CSL46 – Python Programming Laboratory 6
+
 
 print("Sorting using Merge Sort")
 merge_sort(my_list)
